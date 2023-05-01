@@ -1,0 +1,63 @@
+{
+  "Sumbar": [
+    {
+      "id": 1,
+      "title": "Rendang",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2020/05/20/4cc8fe2f-dbcb-4cf3-ac5a-85aa8a4d7142_169.jpeg?w=620",
+      "bahan": "Daging sapi 1 kg, santan kental dari 7 butir kelapa 1,5 liter, memarkan serai 3 batang, kayu manis 10 cm, pala 1/2 butir, asam kandis 1 keping, cengkeh 7 butir, kapulaga 9 butir, bunga lawang 2 buah, daun kunyit disobek-sobek lalu simpulkan 1 lembar, daun salam 5 lembar, daun jeruk 7 helai, bawang putih 9 siung, bawang merah 20 butir, cabai merah keriting 100 gram, jahe 1 jempol, lengkuas muda 1 jempol, bagian putih serai 2 batang, kayu manis 5 cm, dan garam 2 sdt",
+      "desc": "Langkah pertama, jika ingin lebih cepat, daging sapi bisa anda masak terlebih dulu menggunakan panci presto selama 45 menit. Langkah kedua, untuk mendapatkan aroma rendang yang lebih kuat dan enak, bagi dua rempah-rempah seperti cengkeh, kapulaga, dan bunga lawang. Sebagian bisa ikut dihaluskan bersama bahan bumbu halus lainnya. Sebagian lainnya bisa dimasukkan langsung atau ikut dimasak dalam keadaan utuh. Langkah terakhir, tingkat kekeringan rendang bisa disesuaikan selera dengan mengatur lama waktu pemasakan."
+    },
+    {
+      "id": 2,
+      "title": "Sate Padang",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2020/03/07/a915aaa6-501e-48ec-b1ee-e9419e2c0515_169.jpeg?w=620",
+      "bahan": "Daging sapi 500 gram, daun salam 3 lembar, lengkuas dimemarkan 1 ruas, air untuk merebus secukupnya, serai dimemarkan lalu ikat jadi satu berjumlah 3 batang, daun jeruk disobek-sobek 7 lembar, daun kunyit disobek-sobek 1 lembar, daun salam 4 lembar, tepung beras 3 sdm, asam kandis 2 buah, tusukan sate secukupnya, bawang merah goreng secukupnya, bawang putih 50 gram, bawang merah 75 gram, cabai giling halus 3 sdm, jahe 2 ruas, lengkuas 2 ruas, kunyit 2 ruas, bubuk kari 2 sdm, kayu manis 10 cm, pala 1 butir, ketumbar 1 sdm, lada 1 sdt, jinten 1 sdt, adas manis 1 sdt, bunga lawang 2 butir, kapulaga 7 butir, cengkeh 7 butir, dan lontong atau ketupat secukupnya.",
+      "desc": "Langkah pertama, rebus semua bahan daging hingga daging setengah empuk dan tidak berdarah lagi. Angkat dan tiriskan daging lalu potong kotak-kotak sesuai selera. Sisihkan. Simpan air rebusan daging/kaldu untuk membuat kuah. Sisihkan. Langkah kedua, tumis bumbu halus hingga harum. Lalu masukkan daun jeruk, daun kunyit, dan daun salam. Tumis kembali hingga benar-benar matang. Angkat dan bagi bumbu jadi 2 bagian. Langkah ketiga, ambil 1 bagian bumbu lalu campurkan dengan daging yang sudah dipotong-potong. Pindahkan dalam panci lalu tuang air secukupnya (hingga daging terendam). Masak/ungkep daging hingga empuk dan bumbu meresap. Angkat. Langkah keempat, ambil daging lalu tusukkan dan tata di tusukan sate. Lakukan hingga habis. Lalu panggang sate sebentar saja di atas api atau wajan datar anti lengket/teflon. Angkat. Langkah terakhir, ambil 1 bagian bumbu sisanya lalu masak dengan air rebusan daging dan asam kandis hingga mendidih. Masukkan tepung beras yang sudah dilarutkan dengan sedikit air. Aduk-aduk terus (agar tidak menggumpal) hingga kental dan meletup-letup. Koreksi rasanya. Angkat. Lalu tata sate bersama lontong/ketupat. Siram dengan kuah sate. Beri taburan bawang merah goreng."
+    },
+    {
+      "id": 3,
+      "title": "Gulai Paku",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2018/08/18/b72684a9-3052-4bd1-8d21-dd37f3bc41b2_169.jpeg?w=620",
+      "bahan": "2 ikat pakis atau paku dipetik daun dan pucuknya, 300 gram udang dibersihkan, 500 ml santan dari 1/2 butir kelapa, 1 batang serai dimemarkan, 1 ruas lengkuas dimemarkan, 1 lembar daun kunyit, 2 lembar daun salam, 3 lembar daun jeruk, 2 buah asam kandis, garam, gula, dan lada secukupnya, 7 siung bawang merah, 2 siung bawang putih, 2 butir kemiri, 1 sdm ketumbar, 2 cm kunyit, 2 cm jahe, 10 buah cabe rawit hijau",
+      "desc": "Langkah pertama, blender bawang merah, bawang putih, kemiri, ketumbar, kunyit, jahe, dan cabe hingga halus. Langkah kedua, panaskan panci lalu tumis bumbu halus hingga harum. Masukkan daun salam, daun jeruk, daun kunyit, serai, dan lengkuas. Aduk hingga layu. Masukkan juga udang dan masak sampai berubah warna. Sesaat sebelum disajikan, koreksi rasanya terlebih dahulu. Bila rasanya sudah pas, matikan api lalu sajikan."
+    },
+    {
+      "id": 4,
+      "title": "Dendeng Balado",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2016/06/08/9230fe7d-aa02-4870-a245-b45a33a64807_169.jpg?w=620",
+      "bahan": "Daging has dalam utuh tanpa dipotong 200 gram, Bawang merah 6 siung, Cabe merah keriting 15 biji, Tomat merah 1 buah, Cuka masak 1 sdt, Jahe digeprek 1 cm, Lengkuas digeprek 1 cm, Serai 1 batang, Daun salam 2 lembar, Asam kandis 1 keping, Garam 1/2 sdm, Air 1 gelas, Minyak 3 sdm, Minyak untuk menggoreng secukupnya, Bawang putih 5 siung, Ketumbar 1 sdt, Kemiri 2 butir, dan Garam 1/2 sdm",
+      "desc": "Langkah pertama, Taruh potongan daging di panci. Masukkan bumbu halus, air, jahe, lengkuas, serai, daun salam, dan asam kandis. Aduk hingga rata. Rebus atau ungkep dengan api sedang hingga air tinggal sedikit. Langkah kedua, Matikan api dan diamkan daging hingga 1 jam. Potong daging tipis-tipis mengikuti seratnya. Langkah ketiga, Panaskan minyak banyak. Goreng irisan daging hingga garing dan berwarna coklat kehitaman. Angkat dan tiriskan. Sisihkan. Giling kasar bawang merah, cabe, dan tomat. Langkah terakhir, Panaskan minyak. Tumis sambal balado. Aduk-aduk hingga wangi dan matang. Lalu tambahkan garam dan cuka. Aduk dan masak hingga memerah. Angkat."
+    },
+    {
+      "id": 5,
+      "title": "Ayam Pop",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2020/06/18/ilustrasi-ayam-pop_169.jpeg?w=620",
+      "bahan": "Ayam muda dipotong 4 bagian dan buang kulitnya 1 ekor, Jeruk nipis 1/2 buah, Air kelapa 800 ml, Daun salam 2 lembar, Serai 1 batang, Merica bubuk 1 sdt, Gula pasir 1 sdm, Minyak untuk menggoreng secukupnya, Jahe dimemarkan 3 cm, Bawang putih 6 siung geprek iris kasar, Garam 2 sdt, Cabai merah keriting 10 buah, Cabai rawit 3 buah, Tomat 2 buah, dan Bawang merah 6 butir",
+      "desc": "Langkah pertama, Lumuri ayam dengan air perasan jeruk nipis, biarkan 10-15 menit. Lalu masukkan air kelapa, bawang putih halus, jahe, daun salam, serai, garam, merica dan gula pasir ke dalam wajan. Aduk agar tercampur rata. Langkah kedua, masak sampai ayam matang (ayam muda cepat matangnya, sekitar 20 menit). Sambil menunggu ayam matang, siapkan sambalnya. Goreng cabai merah, cabai rawit, bawang merah, tomat sampai layu, angkat dan biarkan agak dingin. Langkah ketiga, Blender bahan sambal beserta minyaknya dan beri air. Lalu tumis dan beri dengan garam. Masak sambal sampai bumbu harum dan meletup - letup. Sisihkan. Langkah terakhir, Panaskan minyak (sampai cukup hangat, jangan terlalu panas), goreng ayam sebentar sambil disiram-siram minyak, angkat dan tiriskan. Sajikan ayam pop dengan sambal dan lalapan."
+    },
+    {
+      "id": 6,
+      "title": "Soto Padang",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2019/05/20/57969235-8de2-4139-8d9f-2105694bc926_169.jpeg?w=620",
+      "bahan": "600 gr daging sapi has dalam, 2 liter air, 2 lembar daun salam, 1 sdm kaldu ayam, 1/2 sdt merica putih bubuk, 3 sdm minyak sayur, untuk menumis, 2 butir cengkih, 2 butir kapulaga, 1 sdt pala bubuk, 2 buah kentang dipotong dadu, 500 ml minyak sayur untuk menggoreng, 1 bungkus soun diseduh dan tiriskan, 10 butir bawang merah, 5 siung bawang putih, 10 buah cabai merah besar",
+      "desc": "Langkah pertama, iris terlebih dahulu daging, lalu rebus bersama dengan daun salam dan merica. Rebus hingga setengah matang, lalu kemudian sisihkan dan tiriskan. Langkah kedua, Siapkan minyak dan tumis bumbu soto Padang yang telah dihaluskan. Lalu tambahkan cengkih, kapulaga dan pala. Aduk hingga rata dan bumbu matang dan mengeluarkan wangi. Kemudian angkat terlebih dahulu. Setelah itu masukkan air sisa merebus daging pada panci, kemudian tambahkan kentang secukupnya. Langkah ketiga, Masukkan kaldu sapi, dan masak daging dan kentang hingga matang. Setelah daging matang, angkat dan tiriskan kembali. Lalu iris tipis daging. Kemudian siapkan minyak dan goreng daging yang telah direbus. Goreng hingga matang dan kering. Angkat dan tiriskan kembali. Langkah terakhir, siapkan mangkuk saji, tambahkan soun, daging dan kentang. Tuang kuah soto dan beri taburan seledri dan daun bawang. Soto khas Padang pun siap disajikan."
+    },
+    {
+      "id": 7,
+      "title": "Pinyaram",
+      "image": "https://cdn.idntimes.com/content-images/community/2020/12/untitled-f52ae628a66c46225817fbe74fd93a35.jpg",
+      "bahan": "250 gram tepung beras, 250 ml air, 150 gram gula merah, 50 gram gula pasir, 1/2 sdt garam, dan 1 lembar daun pandan",
+      "desc": "Langkah pertama, Masak air, gula merah, gula pasir, garam dan daun pandan. Saring dan biarkan hangat. Langkah kedua, Masukkan sedikit sedikit ke tepung, sisakan 1/2 . ulen selama 15 menit. Setelah itu, masukkan sisa air gula merahnya. Lalu tutup dan didiamkan selama 2 jam. Langkah terakhir, Masak pakai api sedang, setelah adonan masuk kecilkan apinya. Tusuk pakai lidi bagian atasnya dan siram pakai minyak. Balik sebentar dan angkat."
+    },
+    {
+      "id": 8,
+      "title": "Keripik Sanjai",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2016/05/25/12107100-76a3-4b45-8b87-e6a7ba0e3951_169.jpg?w=620",
+      "bahan": "Singkong putih 0,5 kg, Garam secukupnya, Minyak goreng secukupnya, cabai merah (dibuang bijinya) 15 buah, bawang putih 5 siung, gula pasir 5 sdm, dan cuka asetat 1 sdt",
+      "desc": "Langkah pertama, Singkong diiris agak tebal sekitar 0,5 cm, (jika terlalu tipis akan mirip keripik singkong biasa). Potongan singkong dibalur dengan sedikit garam dan direndam dalam minyak goreng, hingga terendam semua. Perendaman bisa dilakukan hanya beberapa menit saja. Langkah kedua, potongan singkong tadi digoreng hingga matang dan berwarna putih agak kekuningan. Kemudian diangkat dan ditiriskan. Langkah ketiga, cabai merah, bawang putih, gula pasir, dan garam ditumbuk hingga halus, Cuka asetat ditambahkan dan diaduk-aduk. Sambal ditumis dengan 3 sendok makan minyak goreng. Setelah matang, api dikecilkan. Langkah terakhir, Keripik singkong dimasukkan ke dalam larutan sambal hingga terbalur merata atau membalurkan sambal dengan bantuan kuas. Setelah sambal dingin, keripik sanjai bisa disimpan dalam toples atau dikemas dalam plastik."
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
